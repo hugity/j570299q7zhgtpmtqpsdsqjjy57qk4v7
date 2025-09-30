@@ -4,7 +4,7 @@ SectionPagesMenu = "main"
 DefaultContentLanguage = "en"
 baseURL = "https://web.hugity.com/j570299q7zhgtpmtqpsdsqjjy57qk4v7/"
 languageCode = "en-us"
-title = "Notre-Dame de Paris"
+title = ""
 enableRobotsTXT = true
 googleAnalytics = ""
 
@@ -18,13 +18,13 @@ source = "static"
 target = "assets"
 
 [params]
-background_color_class = "bg-black"
 favicon = ""
 site_logo = ""
 text_color = ""
+background_color_class = ""
 recent_posts_number = 3
 author = ""
-description = "The last theme you'll ever need. Maybe."
+description = ""
 
 [[params.ananke_socials]]
 name = "twitter"
@@ -36,8 +36,8 @@ pagerSize = 3
 [languages]
 [languages.en]
 contentDir = "content/en"
-title = "Ananke"
 weight = 1
+title = ""
 
 [languages.fr]
 contentDir = "content/fr"
