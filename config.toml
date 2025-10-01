@@ -4,7 +4,7 @@ SectionPagesMenu = "main"
 DefaultContentLanguage = "en"
 baseURL = "https://web.hugity.com/j570299q7zhgtpmtqpsdsqjjy57qk4v7/"
 languageCode = "en-us"
-title = "Bobity"
+title = "Testing the settings"
 enableRobotsTXT = true
 googleAnalytics = ""
 
@@ -36,7 +36,7 @@ pagerSize = 3
 [languages]
 [languages.en]
 contentDir = "content/en"
-title = "My English Site"
+title = "this sit he titler"
 weight = 1
 
 [languages.fr]
