@@ -4,7 +4,7 @@ SectionPagesMenu = "main"
 DefaultContentLanguage = "en"
 baseURL = "https://web.hugity.com/j570299q7zhgtpmtqpsdsqjjy57qk4v7/"
 languageCode = "en-us"
-title = "my awesome website"
+title = "Bobity"
 enableRobotsTXT = true
 googleAnalytics = ""
 
