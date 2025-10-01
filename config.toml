@@ -36,7 +36,7 @@ pagerSize = 3
 [languages]
 [languages.en]
 contentDir = "content/en"
-title = ""
+title = "My English Site"
 weight = 1
 
 [languages.fr]
